@@ -1,10 +1,11 @@
 openai==1.30.1
 langchain==0.2.0
 langchain-openai==0.1.7
-langchain-core==0.2.1
+langchain-core==0.2.0
 langchain-community==0.2.0
 langchain-experimental==0.0.59
 langchain-text-splitters==0.2.0
+langchain-anthropic==0.2
 langsmith==0.1.65
 langgraph==0.1.1
 chromadb==0.4.24
